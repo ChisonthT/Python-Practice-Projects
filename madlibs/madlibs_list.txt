@@ -1,0 +1,32 @@
+"""
+Project Name: Mad Libs
+Author: Chisonth Tharmapalan
+Date: December 11, 2022
+Description: Generates a mad lib text with some input from the user. Mad Libs from https://www.madtakes.com/ have been used.
+"""
+1
+I enjoy long, [Word Not Submitted] walks on the beach, getting [Word Not Submitted] in the rain and serendipitous encounters with [Word Not Submitted]. I really like piña coladas mixed with [Word Not Submitted], and romantic, candle-lit [Word Not Submitted]. I am well-read from Dr. Seuss to [Word Not Submitted]. I travel frequently, especially to [Word Not Submitted], when I am not busy with work. (I am a [Word Not Submitted].) I am looking for [Word Not Submitted] and beauty in the form of a [Word Not Submitted] goddess. She should have the physique of [Word Not Submitted] and the [Word Not Submitted] of [Word Not Submitted]. I would prefer if she knew how to cook, clean, and wash my [Word Not Submitted]. I know I’m not very attractive in my picture, but it was taken [Word Not Submitted] days ago, and I have since become more [Word Not Submitted].
+ADJECTIVE
+VERB ENDING IN "ED"
+NOUN (PLURAL)
+LIQUID
+NOUN (PLURAL)
+FAMOUS PERSON
+PLACE
+OCCUPATION
+NOUN
+NATIONALITY
+FEMALE CELEBRITY
+NOUN
+FEMALE FRIEND
+NOUN (PLURAL)
+NUMBER
+ADJECTIVE
+2
+
+
+3
+
+4
+
+5
